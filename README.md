@@ -1,4 +1,4 @@
-# Crud_code
+# Crud_Code
 # Node.js CRUD Practice
 
 A simple Node.js project to practice CRUD (Create, Read, Update, Delete) operations.
